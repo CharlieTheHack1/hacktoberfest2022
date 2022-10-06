@@ -68,7 +68,8 @@ Contribute to start your journey with hacktoberfest. Happy Hacking💻!!! (*Requ
 ```text
 Make this README FILE MORE PROFESSIONAL AND ATTRACTIVE
 ```
-
+<a href="https://github.com/CharlieTheHack1/hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CharlieTheHack1/hacktoberfest2022" />
 ## Contributors of `Hacktoberfest 2022`
 
 <div align="center">
