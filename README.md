@@ -21,7 +21,6 @@ Contribute to start your journey with hacktoberfest. Happy Hacking💻!!! (*Requ
 # ❄Programs
 - ⚡Print 1 to 100 without using numbers
 - ⚡Make calculator without using operators in program
-- ⚡Create any pattern
 - ⚡Make any algorithm
 - ⚡Add webpage parts.
 - ⚡Calculate fibonacci series with classes
